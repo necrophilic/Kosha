@@ -1,0 +1,15 @@
+Alright, so. let me explain a couple of things about the following bots/clients.
+the following file "testing_client.c" has the following methods and is the most updated. 
+["STD", "KOSHA", "UDP", "CRUSH", "STOMP"]
+
+
+client_IPHM.c was made for implementing methods that work over IP Header Modifications / Modified network using IP Spoofing.
+these methods require the scanners except for raw_udp, this will make it easier for the users to send attacks WITHOUT killing the devices
+instead of simply using the devices scanned to this source, it will use reflection files and or server bandwidth to send the attack.
+Very useful! > we are using devices to take down IPBlocks & Companies < We are using Amplifications / SBA to take down home connections and crush our enemies!
+
+
+I ask that you do not edit these files and or take credit for creating them, if you are to edit these, give credits to the developer
+@flexingonlamers / @georgiacri
+Instagram: https://instagram.com/streetsignthegod/
+Twitter: https://twitter.com/flexingonlamers/

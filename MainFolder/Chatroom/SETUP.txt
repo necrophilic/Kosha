@@ -1,0 +1,19 @@
+create the login with the desired username, password, account, and plan
+
+login file: chat.txt
+
+<user> <pass> <normal/admin> <plan>
+plans consist of the following
+test, Beginner, Silver, Gold, Owner, Kosha
+Example: echo Jack root admin Owner >> chat.txt
+
+user = Jack
+Pass = root
+account = admin
+Plan: Owner
+
+Be sure to set the first user as an administrator account!
+also, set up this source in a seperate folder if you are also running a c2 on the server aswell, and keep the botport as 19202
+
+gcc -o chat chatroom.c -pthread
+screen ./chat 19202 1 <connection port>
