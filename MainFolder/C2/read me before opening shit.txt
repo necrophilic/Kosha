@@ -1,0 +1,23 @@
+I suggest using the "main c2" files, also, i think the testing_client is the main one? i forgot ngl.
+anyways, enjoy
+
+Methods
+-
+STD
+UDP
+TCP
+STOMP
+CRUSH
+KOSHA (BROKEN) LMFAO
+-
+Tools
+-
+Adduser
+GeoLocation
+Hostname/DNS Resolver
+portscanner
+-
+i forgot what else i added because ive been working on arceus, sorry c:
+all of my development and what not including the voids and alternatives for methods are in the "DEVLOPMENT" 
+folder, all future development is inside "FUTURE DEVELOPMENT", want updates? pay me more. 
+ill be adding ALOT more, including IPHM implementation and alternatives via OVH bypass. 
