@@ -1024,7 +1024,7 @@ void *telnetWorker(void *sock) {
                 char iplheaders[1024];
                 struct timeval timeout;
                 struct sockaddr_in sock;
-                char *iplookup_host = "185.244.25.189"; // Change to Server IP
+ 
                 timeout.tv_sec = 4; // 4 second timeout
                 timeout.tv_usec = 0;
                 IPLSock = socket(AF_INET, SOCK_STREAM, 0);
